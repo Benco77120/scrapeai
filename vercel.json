@@ -1,0 +1,1 @@
+{"buildCommand":"cd scrapeai && npm run build","outputDirectory":"scrapeai/.next","installCommand":"cd scrapeai && npm install"} 
