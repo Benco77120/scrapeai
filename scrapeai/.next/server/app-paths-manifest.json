@@ -1,0 +1,5 @@
+{
+  "/pricing/page": "app/pricing/page.js",
+  "/api/stripe/checkout/route": "app/api/stripe/checkout/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
